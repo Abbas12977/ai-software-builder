@@ -1,0 +1,12 @@
+{
+  "name": "ai-software-builder",
+  "version": "1.0.0",
+  "description": "AI Software Builder Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
